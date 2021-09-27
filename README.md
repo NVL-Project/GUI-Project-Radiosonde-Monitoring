@@ -1,2 +1,2 @@
 # GUI-Project-Radiosonde-Monitoring
-Proyek GUI (Graphical User Interface) untuk Radiosonde atau alat pemantauan atmosfer
+Proyek GUI (Graphical User Interface) untuk Radiosonde atau alat pemantauan atmosfer menggunakan Visual Studio C#
