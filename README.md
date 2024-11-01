@@ -36,5 +36,5 @@ GUI (Graphical User Interface) project for Radiosonde or atmosphere monitoring t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/GUI-Project-Radiosonde-Monitoring.git
+   git@github.com:NVL-Project/GUI-Project-Radiosonde-Monitoring.git
    cd GUI-Project-Radiosonde-Monitoring
