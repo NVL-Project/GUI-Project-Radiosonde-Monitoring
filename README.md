@@ -1,13 +1,40 @@
 # GUI-Project-Radiosonde-Monitoring
-GUI (Graphical User Interface) project for Radiosonde or atmosphere monitoring tool using Visual Studio C#
 
-GUI-Project-Radiosonde-Monitoring/
-├── GUI-Project-Radiosonde-Monitoring.sln  # Solution file
-├── src/                                   # Source code files
-│   ├── MainForm.cs                        # Main GUI form code
-│   ├── DataProcessor.cs                   # Data processing code
-│   ├── Config/                            # Configuration files
-│   └── Assets/                            # Images, icons, etc.
-├── README.md                              # Project documentation
-└── LICENSE                                # License file
+GUI (Graphical User Interface) project for Radiosonde or atmosphere monitoring tool using Visual Studio C#. This project allows users to monitor and visualize data from radiosonde devices in real-time.
 
+## Table of Contents
+- [Preview](#preview)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Configuration](#configuration)
+- [Folder Structure](#folder-structure)
+- [Contribution](#contribution)
+- [License](#license)
+
+## Preview
+
+![Project Preview](link-to-preview-image.jpg)
+
+*Add a screenshot or GIF showing your application's interface.*
+
+## Features
+
+- Real-time data visualization from radiosonde devices.
+- User-friendly interface with interactive controls for data monitoring.
+- Data logging capabilities for atmosphere monitoring sessions.
+- Customizable settings for specific radiosonde configurations.
+
+## Technologies Used
+
+- **C#** - Core language for application development.
+- **Visual Studio** - IDE used to develop the application.
+- **.NET Framework** - Framework to build and run the GUI application.
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/username/GUI-Project-Radiosonde-Monitoring.git
+   cd GUI-Project-Radiosonde-Monitoring
